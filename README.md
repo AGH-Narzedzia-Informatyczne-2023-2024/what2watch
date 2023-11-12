@@ -24,14 +24,6 @@ przykład
 * lista
 * lista
 
-## Autorzy
-* item - rola 
-* item - rola
-* item - rola
-* item - rola
-* item - rola
-* item - rola
-
 ## Licencja
 
 Ten projekt ma licencję GNU GPL - po więcej informacji udaj się do pliku LICENSE.md
@@ -45,7 +37,7 @@ Powinniśmy jeszcze popracować nad optymalizacją kodu pod kątem wydajności m
 ## Członkowie zespołu
 
 Karol Bystrek
-Berenieke Banek
+Berenike Banek
 Bielówka Mateusz
 Chamera Patryk
 Gałek Kacper
