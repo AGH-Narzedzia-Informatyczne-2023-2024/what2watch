@@ -1,4 +1,4 @@
-### What2Watch
+# What2Watch
 
 Aplikcja "what2watch" to narzędzie stworzone z myślą o miłośnikach kina, którzy często mają problem ze wyborem odpowiedniego filmu lub serialu do oglądania. Projekt ma na celu zaproponowanie użytkownikow najlepszych filmów i seriali, dostosowanych do preferencji i gustów.
 
@@ -7,11 +7,11 @@ Aplikcja "what2watch" to narzędzie stworzone z myślą o miłośnikach kina, kt
 
 -zapropnuje uzytkownikowi film/serial na podstawie tych danych
 
-# Co należy zainstalować
+## Co należy zainstalować
 
 przykład
 
-# Jak zainstalowac aplikację
+## Jak zainstalowac aplikację
 
 * Przejdź do repozytorium GitHub What2watch.
 * Kliknij zielony przycisk "Code" i wybierz "Download ZIP", aby pobrać repozytorium jako plik ZIP.
@@ -24,7 +24,7 @@ przykład
 * lista
 * lista
 
-# Autorzy
+## Autorzy
 * item - rola 
 * item - rola
 * item - rola
@@ -32,7 +32,7 @@ przykład
 * item - rola
 * item - rola
 
-# Licencja
+## Licencja
 
 Ten projekt ma licencję _____
 
