@@ -38,15 +38,7 @@ Ten projekt ma licencję _____
 
 
 
-## Tabelka testowa
-<table>
-    <tr>
-        <td>T</td><td>a</td><td>b</td>
-    </tr>
-    <tr>
-        <td>e</td><td>l</td><td>a</td>
-    </tr>
-</table>
+
 >>>>>>> 5b1cdae5ad4d9c1f73e7ed911d82601822c4eed9
 Powinniśmy jeszcze popracować nad optymalizacją kodu pod kątem wydajności może poprawić reaktywność aplikacji i zmniejszyć zużycie zasobów. Możesz zoptymalizować zapytania do bazy danych, zredukować czas ładowania strony lub zoptymalizować algorytmy.
 
