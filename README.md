@@ -45,3 +45,12 @@ Ten projekt ma licencję _____
 </table>
 >>>>>>> 5b1cdae5ad4d9c1f73e7ed911d82601822c4eed9
 Powinniśmy jeszcze popracować nad optymalizacją kodu pod kątem wydajności może poprawić reaktywność aplikacji i zmniejszyć zużycie zasobów. Możesz zoptymalizować zapytania do bazy danych, zredukować czas ładowania strony lub zoptymalizować algorytmy.
+
+## Członkowie zespołu
+
+Karol Bystrek
+Berenieke Banek
+Bielówka Mateusz
+Chamera Patryk
+Gałek Kacper
+Groblicki Jakub
