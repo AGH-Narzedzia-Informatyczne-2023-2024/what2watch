@@ -13,7 +13,11 @@ przykład
 
 # Jak zainstalowac aplikację
 
-instrukcja
+* Przejdź do repozytorium GitHub What2watch.
+* Kliknij zielony przycisk "Code" i wybierz "Download ZIP", aby pobrać repozytorium jako plik ZIP.
+* Rozpakuj plik ZIP do wybranego folderu.
+* Przejdź do rozpakowanego folderu i znajdź plik "What2watch.exe".
+* Dwukrotnie kliknij plik "What2watch.exe", aby uruchomić program.
 
 ## Zbudowane za pomocą
 * lista
