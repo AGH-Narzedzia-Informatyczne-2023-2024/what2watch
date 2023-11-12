@@ -4,6 +4,7 @@ Aplikcja "what2watch" to narzędzie stworzone z myślą o miłośnikach kina, kt
 
 ## Główne funkcje aplikacji
 -pobierze od użytkownika dane(ulubione filmy/seriale, jaki gatunek go interesuje, jakie filmy już oglądał)
+
 -zapropnuje uzytkownikowi film/serial na podstawie tych danych
 
 
