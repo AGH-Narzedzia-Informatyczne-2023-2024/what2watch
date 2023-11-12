@@ -1,4 +1,4 @@
-# Projekt "what2watch" - Aplikacja do Sugerowania Filmów i Seriali
+### What2Watch
 
 Aplikcja "what2watch" to narzędzie stworzone z myślą o miłośnikach kina, którzy często mają problem ze wyborem odpowiedniego filmu lub serialu do oglądania. Projekt ma na celu zaproponowanie użytkownikow najlepszych filmów i seriali, dostosowanych do preferencji i gustów.
 
@@ -7,10 +7,30 @@ Aplikcja "what2watch" to narzędzie stworzone z myślą o miłośnikach kina, kt
 
 -zapropnuje uzytkownikowi film/serial na podstawie tych danych
 
+# Co należy zainstalować
 
+przykład
 
+# Jak zainstalowac aplikację
 
+instrukcja
 
+## Zbudowane za pomocą
+* lista
+* lista
+* lista
+
+# Autorzy
+* item - rola 
+* item - rola
+* item - rola
+* item - rola
+* item - rola
+* item - rola
+
+# Licencja
+
+Ten projekt ma licencję _____
 
 
 
