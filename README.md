@@ -34,7 +34,7 @@ przykład
 
 ## Licencja
 
-Ten projekt ma licencję _____
+Ten projekt ma licencję GNU GPL - po więcej informacji udaj się do pliku LICENSE.md
 
 
 
