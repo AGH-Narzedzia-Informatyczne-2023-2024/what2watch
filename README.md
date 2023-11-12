@@ -28,17 +28,23 @@ przykład
 
 Ten projekt ma licencję GNU GPL - po więcej informacji udaj się do pliku LICENSE.md
 
-
-
-
 >>>>>>> 5b1cdae5ad4d9c1f73e7ed911d82601822c4eed9
 Powinniśmy jeszcze popracować nad optymalizacją kodu pod kątem wydajności może poprawić reaktywność aplikacji i zmniejszyć zużycie zasobów. Możesz zoptymalizować zapytania do bazy danych, zredukować czas ładowania strony lub zoptymalizować algorytmy.
 
 ## Członkowie zespołu
 
+<<<<<<< HEAD
 Karol Bystrek
 Berenike Banek
 Bielówka Mateusz
 Chamera Patryk
 Gałek Kacper
 Groblicki Jakub
+=======
+* Karol Bystrek
+* Berenike Banek
+* Mateusz Bielówka
+* Patryk Chamera
+* Kacper Gałek 
+* Jakub Groblicki
+>>>>>>> 3d496e00e4cd24fb9ecef4482beb526d31f7cf87
