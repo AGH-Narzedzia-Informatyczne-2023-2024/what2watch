@@ -50,3 +50,5 @@ Bielówka Mateusz
 Chamera Patryk
 Gałek Kacper
 Groblicki Jakub
+
+Bezpieczeństwo: Poprawa bezpieczeństwa jest istotna, zwłaszcza w aplikacjach internetowych. Możesz zidentyfikować i eliminować potencjalne luki bezpieczeństwa, takie jak ataki typu SQL Injection, Cross-Site Scripting (XSS) czy Cross-Site Request Forgery (CSRF).
