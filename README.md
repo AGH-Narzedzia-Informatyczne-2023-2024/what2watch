@@ -7,10 +7,6 @@ Aplikcja "what2watch" to narzędzie stworzone z myślą o miłośnikach kina, kt
 
 -zapropnuje uzytkownikowi film/serial na podstawie tych danych
 
-## Co należy zainstalować
-
-przykład
-
 ## Jak zainstalowac aplikację
 
 * Przejdź do repozytorium GitHub What2watch.
