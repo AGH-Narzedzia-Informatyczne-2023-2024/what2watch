@@ -1,0 +1,28 @@
+KRÓTKA INSTUKCJA POBRANIA NASZEJ APLIKACJI MOBILNEj
+
+1. Otwórz Sklep Play:
+Otwórz aplikację Sklep Play na swoim urządzeniu Android. Możesz znaleźć ją na ekranie głównym lub w menu aplikacji.
+
+2. Wyszukaj Aplikację:
+W polu wyszukiwania wpisz nazwę aplikacji "What2Watch" i naciśnij ikonę lupki.
+
+3. Wybierz Aplikację:
+Z listy wyników wyszukiwania wybierz aplikację "What2Watch". Upewnij się, że jest to aplikacja, którą chcesz pobrać, patrząc na opis i oceny 
+innych użytkowników. 
+
+4.Pobierz i Zainstaluj:
+Po wybraniu aplikacji, naciśnij przycisk "Zainstaluj". Przed pobraniem aplikacji możesz zobaczyć informacje o wymaganiach dostępu i pozwoleniach.
+ Jeśli jesteś z nimi zgodny, naciśnij "Zainstaluj".
+
+5. Autoryzacja:
+Jeśli nie jesteś zalogowany do swojego konta Google, zostaniesz poproszony o zalogowanie się. Po zalogowaniu się proces instalacji zostanie 
+automatycznie uruchomiony.
+
+6. Czekaj na Instalację:
+Poczekaj, aż proces pobierania i instalacji zostanie zakończony. Po zakończeniu, będziesz mógł otworzyć aplikację z ekranu głównego swojego 
+urządzenia.
+
+
+Pamiętaj, że szczegóły mogą się różnić w zależności od wersji systemu Android i interfejsu urządzenia. Upewnij się, że korzystasz z oficjalnej 
+wersji aplikacji z zaufanego źródła. Jeśli natrafisz na problemy, zawsze możesz skonsultować się z dokumentacją lub wsparciem technicznym 
+producenta urządzenia.
