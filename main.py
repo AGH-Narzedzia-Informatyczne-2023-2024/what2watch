@@ -1,6 +1,6 @@
 import re
 import math
-import functools
+import operator
 
 def main():
   ...
