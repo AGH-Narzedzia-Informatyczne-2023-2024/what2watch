@@ -1,5 +1,8 @@
 Test konfliktu
-
+ 
 
 
 To spowoduje konflikt
+
+Jakiś bardzo konfliktowy tekst
+ 
