@@ -1,2 +1,5 @@
 Test konfliktu
 
+
+
+To spowoduje konflikt
